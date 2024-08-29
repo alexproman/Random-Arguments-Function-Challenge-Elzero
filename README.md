@@ -3,7 +3,7 @@
   - Creat function showDetails.
   - function accept 3 arguments [a,b,c]
   - Data Types for info is 
-    -- Steing ==> Name
+    -- String ==> Name
     -- Number ==> Age
     -- Boolean ==> Status
   - Arguments is Random
